@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "headhesive": "^1.2.4",
+    "jquery": "^3.6.1",
+    "ngx-owl-carousel-o": "^14.0.1",
+    "save": "^2.9.0"
+  }
+}
